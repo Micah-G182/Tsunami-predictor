@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as t
 import pandas as pd
 import pickle
 import numpy as np
@@ -128,4 +128,5 @@ st.write("______________________________________________________________________
 st.write("Model accuracy score = 93.0%")
 st.write("Model Engineers: Georgina and Peninah, 2026 Science and Technology Fair.")
 st.write("Thank you.")
+
 
